@@ -1,0 +1,54 @@
+body{
+  background-color:gainsboro;
+
+}
+.container
+{
+  background-color:white;
+  width:1200px;
+  height:510px;
+  font-family: inherit;
+  margin-left: 90px;
+  margin-top: 50px;
+  border-radius: 30px;
+  box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+#id1{
+  width: 400px;
+  height: 200px;
+  margin-left: 400px;
+  margin-top:20px;
+  border-radius:10px;
+
+}
+h1
+{
+  margin-left: 400px;
+  margin-top: 50px;
+  padding-top: 50px;
+  color: rgb(214, 139, 25);
+  text-shadow:rgba(3, 3, 175, 0.384);
+  font-size: 40px;
+
+}
+.c1
+{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 50px;
+  
+}
+.c2
+{
+  margin-left: 520px;
+  margin-top: 50px;
+  width: 150px;
+  height: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  background-image:linear-gradient(#00ff7e,#1f3d90);
+  border-radius: 25px;
+  color: antiquewhite;
+  font-size: 20px;
+  
+}
